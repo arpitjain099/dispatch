@@ -80,11 +80,11 @@
   },
   "devDependencies": {
     "@playwright/test": "^1.40.0",
-    "@vitejs/plugin-vue": "^5.0.3",
+    "@vitejs/plugin-vue": "^5.2.3",
     "@vue/test-utils": "^2.4.3",
     "babel-runtime": "^6.26.0",
     "cross-env": "^7.0.3",
-    "esbuild": "^0.19.10",
+    "esbuild": "^0.25.1",
     "eslint": "^8.54.0",
     "eslint-config-prettier": "^8.10.0",
     "eslint-plugin-local-rules": "^2.0.1",
@@ -98,9 +98,9 @@
     "resize-observer-polyfill": "^1.5.1",
     "sass": "^1.69.5",
     "unplugin-vue-components": "^0.22.12",
-    "vite": "^5.0.11",
+    "vite": "^6.2.3",
     "vite-plugin-monaco-editor": "^1.1.0",
     "vite-plugin-vuetify": "^2.0.1",
-    "vitest": "^0.34.6"
+    "vitest": "^3.0.9"
   }
 }
